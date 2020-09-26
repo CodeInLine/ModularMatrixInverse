@@ -1,3 +1,3 @@
 # ModularMatrixInverse
 
-## Calculate the inverse matrix of a particular square matrix under a specified module.
+## Calculate the inverse matrix under a specified module.
